@@ -1,4 +1,19 @@
-/* yellow 80px */
-.emojiSpriteImage_d982c2[style*='background-image: url("/assets/9d6f7bad0b4786fd.png")'] {
-	background-image: url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/spritesheets/Microsoft-3D/yellow_80.png") !important;
+/* emoji 96px */
+.emojiSpriteImage_d982c2[style*='background-image: url("/assets/60cbc861ee0baff2.png")'] {
+	background-image: url("https://raw.githubusercontent.com/Woowz11/VencordPlugins/refs/heads/main/GOLUEmojies/Atlas/Emoji96.png") !important;
+}
+
+/* grinning */
+.diversityEmojiItemImage_a45a2a[src='/assets/f753793200a49ad6.svg'], .diversityEmojiItemImage_a45a2a[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.image__1859b[src='/assets/f753793200a49ad6.svg'], .image__1859b[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.emoji__045fa[src='/assets/f753793200a49ad6.svg'], .emoji__045fa[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.emojiImage__13533[src='/assets/f753793200a49ad6.svg'], .emojiImage__13533[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.icon_c1e9c4[src='/assets/f753793200a49ad6.svg'], .icon_c1e9c4[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.icon_f563df[src='/assets/f753793200a49ad6.svg'], .icon_f563df[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.emoji_b7f4b4[src='/assets/f753793200a49ad6.svg'], .emoji_b7f4b4[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.emoji__01c8c[src='/assets/f753793200a49ad6.svg'], .emoji__01c8c[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.roleIcon_ee71ee[src='/assets/f753793200a49ad6.svg'], .roleIcon_ee71ee[style*='background-image: url("/assets/f753793200a49ad6.svg")'], 
+.emoji[src='/assets/f753793200a49ad6.svg'], .emoji[style*='background-image: url("/assets/f753793200a49ad6.svg")'] {
+	background: transparent !important;
+	content: url("https://raw.githubusercontent.com/Woowz11/VencordPlugins/refs/heads/main/GOLUEmojies/Textures/Grinning.png") !important;
 }
