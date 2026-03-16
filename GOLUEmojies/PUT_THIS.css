@@ -1,3 +1,8 @@
+/* emoji 80px */
+.emojiSpriteImage_d982c2[style*='background-image: url("/assets/668ed2f8f314c3b7.png")'] {
+	background-image: url("https://raw.githubusercontent.com/Woowz11/VencordPlugins/refs/heads/main/GOLUEmojies/Atlas/Emoji80.png") !important;
+}
+
 /* emoji 96px */
 .emojiSpriteImage_d982c2[style*='background-image: url("/assets/60cbc861ee0baff2.png")'] {
 	background-image: url("https://raw.githubusercontent.com/Woowz11/VencordPlugins/refs/heads/main/GOLUEmojies/Atlas/Emoji96.png") !important;
